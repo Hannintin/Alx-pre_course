@@ -1,1 +1,2 @@
-my second readme 1
+Thank you Engr Gentle and Engr Abdullahi
+
